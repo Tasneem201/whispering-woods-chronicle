@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Elara solved the map’s mystery and uncovered an ancient source of light that healed the forest. Her village flourished, and the woods that once whispered warnings now sang songs of peace. Elara became a legend, her name carried with joy on every breeze through the Whispering Woods.
+=======
+Elara followed the map into the depths of the woods, but was never seen again. The forest grew darker, and her village fell into silence, waiting endlessly for her return. Her legend became a warning, whispered to children who strayed too close to the edge of the trees.
+>>>>>>> tragic-ending
